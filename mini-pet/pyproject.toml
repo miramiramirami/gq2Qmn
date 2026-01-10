@@ -1,0 +1,15 @@
+[project]
+name = "mini-pet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "asyncio>=4.0.0",
+    "fastapi>=0.128.0",
+    "google-genai>=1.57.0",
+    "pydantic>=2.12.5",
+    "sqlalchemy>=2.0.45",
+    "uvicorn>=0.40.0",
+]
