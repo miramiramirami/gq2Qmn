@@ -37,6 +37,7 @@ async def setup_test_db():
         await conn.run_sync(Base.metadata.drop_all)
 
 
+
 # фикстура для сервисного уровня
 @pytest_asyncio.fixture
 async def session() -> AsyncGenerator[AsyncSession, None]:
