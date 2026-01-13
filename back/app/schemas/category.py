@@ -1,0 +1,13 @@
+from pydantic import BaseModel, Field
+
+class CategoryBase(BaseModel):
+    name: str = Field(..., min_length=3, max_length=100, description="Category name")
+    slug: str = Field(..., min_length=3, max_length=100, description="URL category name")
+
+class CategoryCreate(CategoryBase):
+    pass
+
+class CategoryResponse(CategoryBase):
+    id: int 
+
+    model_config = {'from_attributes': True}
