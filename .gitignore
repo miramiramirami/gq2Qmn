@@ -1,0 +1,53 @@
+# --- Vue Frontend ---
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Local env data
+.env*
+!.env.example
+
+# Editor junk
+.idea/
+.vscode/
+*.swp
+
+# --- Python / FastAPI Backend ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py~
+*.cache
+*.orig
+
+# venv / poetry / pipenv
+venv/
+.venv/
+env/
+.env/
+pip-wheel-metadata/
+poetry.lock
+Pipfile.lock
+
+# Uvicorn reload artifacts
+*.pid
+
+# Compiled / generated
+*.so
+*.dll
+
+# Tests / reports
+htmlcov/
+.coverage
+.cache
+pytest_cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
