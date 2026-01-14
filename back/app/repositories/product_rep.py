@@ -7,7 +7,7 @@ class ProductRepository:
     def __init__(self, db: Session):
         self.db = db
 
-    def get_all(self) -> List[Product]:
+    def get_all(self) -> list[type[Product]]:
         return self.db.query(Product).options(joinedload(Product.category)).all()
 
     def get_by_id(self, product_id: int) -> Optional[Product]:
@@ -33,7 +33,7 @@ class ProductRepository:
         self.db.refresh(db_product)
         return db_product
 
-    def get_multiple_by_ids(self, product_ids: List[int]) -> List[Product]:
+    def get_multiple_by_ids(self, product_ids: List[int]) -> list[type[Product]]:
         return (
             self.db.query(Product)
             .options(joinedload(Product.category))

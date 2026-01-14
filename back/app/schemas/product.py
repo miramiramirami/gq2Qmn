@@ -23,7 +23,7 @@ class ProductResponse(BaseModel):
     category_id: int
     image_url: Optional[str]
     created_at: datetime
-    category: CategoryResponse = Field(..., description="Product category details")
+    category: Optional[CategoryResponse] = Field(..., description="Product category details")
 
     model_config = {"from_attributes": True}
 
