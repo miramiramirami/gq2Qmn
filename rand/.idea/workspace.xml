@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1a8110-b5b4-473e-9a79-254687c566ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/.python-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/alembic.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/alembic/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/alembic/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/alembic/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/alembic/versions/bab7fea8fc21_add_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/db/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/dependencies/get_session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/models/products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/routers/products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/schemas/exceptions/products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/schemas/products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/app/services/products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/test.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/tests/test_products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fucking-shit/uv.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "miramiramirami"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/miramiramirami/gq2Qmn.git",
+    "accountId": "6b774dfb-f2dd-4638-8808-350a344d7725"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="38I4SiHzSZw1kZLpacIVrritvSP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/prepproj/rand"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1a8110-b5b4-473e-9a79-254687c566ff" name="Changes" comment="" />
+      <created>1768473752296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768473752296</updated>
+    </task>
+    <servers />
+  </component>
+</project>
